@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from CutSpectrum import cutExe
 
-samplerate, data = wavfile.read('MyVoice.wav')
+samplerate, data = wavfile.read('Wav/MyVoice.wav')
 
 print(f"number of channels = {data.shape[1]}") #количество каналов
 length = data.shape[0] / samplerate #длительность в секундах
@@ -31,4 +31,4 @@ plt.plot(time, processedTrack)
 plt.show()
 
 dataWrite = np.array(processedTrack)
-wavfile.write("CutBegin.wav", samplerate, dataWrite.astype(np.int16))
+wavfile.write("Wav/CutBegin.wav", samplerate, dataWrite.astype(np.int16))
