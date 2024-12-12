@@ -1,10 +1,10 @@
 import numpy as np
 
 def cutWindow(x):
-    if 500 < np.abs(x):
-        return 1
-    else:
+    if np.abs(x) > 5000:
         return 0
+    else:
+        return 1
 
 def cutExe(f_x, x):
     for i in range(len(x)):

@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8836db6c-f6d1-44bd-9795-96bd4c341d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/audioProcessing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AAA.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CutSpectrum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LenaAAA.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyVoice.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getFourierBackwardTransfrom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getFourierTransfrom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readTheWAV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Signal_Processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Komar.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/MyVoice_Beep.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Myvoice_Komar.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Все струны гитары.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Первая струна гитары.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Порванная струна.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CutSpectrum.py" beforeDir="false" afterPath="$PROJECT_DIR$/CutSpectrum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/CutBegin.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/CutTale.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/FifthHarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/FirstHarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/FourthHarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/Result.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/SecondHarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/ThirdHarm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/example.wav" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +53,25 @@
   "keyToString": {
     "Python.CutSpectrum.executor": "Run",
     "Python.EasyMode.executor": "Run",
+    "Python.MainFile.executor": "Run",
+    "Python.Signal Processing.executor": "Run",
+    "Python.Signal_Processing.executor": "Run",
     "Python.getFourierBackwardTransfrom.executor": "Run",
     "Python.getFourierTransfrom.executor": "Run",
     "Python.main.executor": "Run",
     "Python.readTheWAV.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/audioProcessing"
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/audioProcessing/Wav"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\audioProcessing\Wav" />
       <recent name="C:\Users\Admin\PycharmProjects\audioProcessing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\audioProcessing\Wav" />
     </key>
   </component>
   <component name="SharedIndexes">
