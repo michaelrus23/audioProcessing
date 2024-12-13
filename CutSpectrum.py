@@ -1,7 +1,7 @@
 import numpy as np
 
 def cutWindow(x):
-    if np.abs(x) > 5000:
+    if np.abs(x) > 500:
         return 0
     else:
         return 1

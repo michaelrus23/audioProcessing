@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8836db6c-f6d1-44bd-9795-96bd4c341d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Signal_Processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Komar.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/MyVoice_Beep.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Myvoice_Komar.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Все струны гитары.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Первая струна гитары.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Порванная струна.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fourier_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Запись (2).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wav/Запись.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_function_fourier_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myFuns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/audioProcessing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/audioProcessing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CutSpectrum.py" beforeDir="false" afterPath="$PROJECT_DIR$/CutSpectrum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/CutBegin.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/CutTale.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/FifthHarm.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/FirstHarm.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/FourthHarm.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/Result.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/SecondHarm.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/ThirdHarm.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wav/example.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wav/Result.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Wav/Result.wav" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,21 +47,26 @@
     "Python.MainFile.executor": "Run",
     "Python.Signal Processing.executor": "Run",
     "Python.Signal_Processing.executor": "Run",
+    "Python.example_function_fourier_series.executor": "Run",
     "Python.getFourierBackwardTransfrom.executor": "Run",
     "Python.getFourierTransfrom.executor": "Run",
     "Python.main.executor": "Run",
     "Python.readTheWAV.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/audioProcessing/Wav"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/GitHub/audioProcessing/Wav",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\audioProcessing\Wav" />
       <recent name="C:\Users\Admin\PycharmProjects\audioProcessing\Wav" />
       <recent name="C:\Users\Admin\PycharmProjects\audioProcessing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\audioProcessing" />
       <recent name="C:\Users\Admin\PycharmProjects\audioProcessing\Wav" />
     </key>
   </component>
