@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8836db6c-f6d1-44bd-9795-96bd4c341d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Fourier_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Запись (2).wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wav/Запись.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example_function_fourier_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFuns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/audioProcessing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/audioProcessing.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CutSpectrum.py" beforeDir="false" afterPath="$PROJECT_DIR$/CutSpectrum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Wav/Result.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Wav/Result.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_function_fourier_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/example_function_fourier_series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     "Python.EasyMode.executor": "Run",
     "Python.MainFile.executor": "Run",
     "Python.Signal Processing.executor": "Run",
-    "Python.Signal_Processing.executor": "Run",
+    "Python.Signal_Processing.executor": "Debug",
     "Python.example_function_fourier_series.executor": "Run",
     "Python.getFourierBackwardTransfrom.executor": "Run",
     "Python.getFourierTransfrom.executor": "Run",
@@ -87,5 +82,16 @@
       <updated>1733768573508</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Signal_Processing.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -26,10 +26,10 @@ plt.rcParams['font.family'] = 'Comic Sans MS'
 hfont = {'fontname' : 'Comic Sans MS'}
 plt.plot(x, y, '.', label="Прямое вычисление")
 plt.plot(x, yf, '-.', label="Слагаемых Фурье N = 4")
-plt.xlabel('x', size=12, **hfont)
-plt.xticks(size=12, **hfont)
-plt.ylabel('u(x)', size=12, **hfont)
-plt.yticks(size=12, **hfont)
+plt.xlabel('x', size=24, **hfont)
+plt.xticks(size=24, **hfont)
+plt.ylabel('u(x)', size=24, **hfont)
+plt.yticks(size=24, **hfont)
 plt.legend()
 plt.show()
 
